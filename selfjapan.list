@@ -1,0 +1,7 @@
+# 语法说明:
+#   - DOMAIN-SUFFIX,域名,策略组      # 匹配域名后缀
+#   - DOMAIN-KEYWORD,关键词,策略组   # 匹配域名中的关键词
+#   - DOMAIN,完整域名,策略组        # 匹配完整域名
+#   - IP-CIDR,IP段,策略组,no-resolve # 匹配目标 IP 地址段
+#   - SRC-IP-CIDR,IP段,策略组        # 匹配源 IP 地址段 (例如家庭网络设备)
+DOMAIN-SUFFIX,dmm.co.jp

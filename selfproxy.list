@@ -5,3 +5,7 @@
 #   - IP-CIDR,IP段,no-resolve # 匹配目标 IP 地址段
 #   - SRC-IP-CIDR,IP段       # 匹配源 IP 地址段 (例如家庭网络设备)
 GEOSITE,category-games
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,store.steampowered.com
+DOMAIN-SUFFIX,api.steampowered.com
+DOMAIN-SUFFIX,steamcharts.com

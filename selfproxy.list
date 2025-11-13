@@ -6,6 +6,7 @@
 # SRC-IP-CIDR,IP段       # 匹配源 IP 地址段 (例如家庭网络设备)
 
 # STEAM
+
 GEOSITE,category-games
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,store.steampowered.com
